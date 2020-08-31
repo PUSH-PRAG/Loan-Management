@@ -1,5 +1,4 @@
 My Website
 
-This is really awesome website
-
+update locally
 No editing on update-readme file
